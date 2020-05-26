@@ -5,4 +5,4 @@ In this project, I try to use Facebook Detectron2 to process user submit photos 
 
 For example, in the example folders, I can search for "cat" and then plot the positive photos:
 
-![cat_search](http://url/to/img.png)
+![cat_search](https://github.com/dgg32/meta_detectron2/blob/master/Screenshot%20from%202020-05-27%2000-27-12.png)
