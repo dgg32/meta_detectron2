@@ -1,6 +1,8 @@
 # meta_detectron2
 
-In this project, I try to use Facebook Detectron2 to process photos and save both the list of detected object and the photo metadata in a database. So it is possible later to search with an object and get the photos with that object. Occassionally, it can even plot their locations in the world map.
+In this project, I try to use Facebook Detectron2 to process photos and save both the list of detected object and the photo metadata in a database. So it is possible later to search with an object and get the photos with that object. In addition, this notebook can even plot the selected photo locations in the world map.
+
+This function is also seen in Apple's closed source Photos.app. But in Photo.app, the detections seem a touch and go thing. And it doesn't let you inspect its recognition outputs.
 
 
 Facebook's Detectron2 can recognize the objects inside a photo:
