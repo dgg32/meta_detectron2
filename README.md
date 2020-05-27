@@ -24,6 +24,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* ![Extract lat lon from Exif](https://developer.here.com/blog/getting-started-with-geocoding-exif-image-metadata-in-python3).
-* ![Detectron2](https://github.com/facebookresearch/detectron2)
-* ![Folium](https://python-visualization.github.io/folium/quickstart.html)
+* [Extract lat lon from Exif](https://developer.here.com/blog/getting-started-with-geocoding-exif-image-metadata-in-python3).
+* [Detectron2](https://github.com/facebookresearch/detectron2)
+* [Folium](https://python-visualization.github.io/folium/quickstart.html)
