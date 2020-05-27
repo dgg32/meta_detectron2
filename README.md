@@ -12,3 +12,18 @@ Facebook's Detectron2 can recognize the objects inside a photo:
 For example, in the example folders, I can search for "cat" and then plot the positive photos:
 
 ![cat_search](https://github.com/dgg32/meta_detectron2/blob/master/Screenshot%20from%202020-05-27%2000-27-12.png)
+
+
+## Authors
+
+* **Sixing Huang** - *Concept & Coding*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* ![Extract lat lon from Exif](https://developer.here.com/blog/getting-started-with-geocoding-exif-image-metadata-in-python3).
+* ![Detectron2](https://github.com/facebookresearch/detectron2)
+* ![Folium](https://python-visualization.github.io/folium/quickstart.html)
